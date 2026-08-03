@@ -14,7 +14,7 @@
       "date": "20260803",
       "cat": "BUDGET",
       "price": "101.74",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
@@ -24,6 +24,10 @@
     "20260806": "AVAILABLE",
     "20260807": "AVAILABLE",
     "20260808": "AVAILABLE",
-    "20260809": "AVAILABLE"
+    "20260809": "AVAILABLE",
+    "20260810": "AVAILABLE",
+    "20260811": "AVAILABLE",
+    "20260812": "AVAILABLE",
+    "20260813": "AVAILABLE"
   }
 }
